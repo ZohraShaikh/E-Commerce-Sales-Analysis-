@@ -1,2 +1,5 @@
-# E-Commerce-Sales-Analysis-
-I worked with an open-source dataset and applied SQL queries to extract KPIs such as sales by region, profit margins, and churn analysis. ...  The project demonstrates skills in data cleaning, business intelligence, and reporting, while also showing how data-driven insights can improve decision-making in e-commerce.
+# E-Commerce Sales Analysis  
+Analyzed sales dataset to identify customer trends and profitability.  
+- SQL queries for revenue, profit margins, and customer churn.  
+- Power BI dashboards with automated refresh.  
+- Tools: SQL, Power BI, Excel.  
